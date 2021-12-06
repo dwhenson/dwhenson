@@ -26,7 +26,8 @@ I have plenty of experience working with remote teams. I aim to transition into 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwhenson&layout=compact)](https://github.com/dwhenson/github-readme-stats)
   </td>
   </table>
-
+  
+ <figure><embed src="https://wakatime.com/share/@dwhenson/f02a79ee-91f3-46f9-91d0-ec675b956883.svg"></embed></figure>
 
 ## 📫 Contact 
 
