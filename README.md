@@ -34,15 +34,4 @@ Email is the [best way to reach me](mailto:dave.henson@gmail.com). I'd love to g
 
 ## Most recent listens 🎵 🎧
 
-<table> 
-  <tr>
-  <td>
-      
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/tadpole-angel)
-
-  </td>
-  <td>
-
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tadpole-angel&count=2&width=500)
-  </td>
-  </table>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tadpole-angel&count=5&width=500)
