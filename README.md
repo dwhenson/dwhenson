@@ -31,7 +31,7 @@ I have plenty of experience working with remote teams. I aim to transition into 
 
 ## 📫 Contact 
 
-Email is the [best way to reach me](mailto:dave.henson@gmail.com). I'd love to give you all my social media connections, but I'm not really into all that, so I'm afraid you'll just have to write.  
+Email is the [best way to reach me](mailto:dave.henson@gmail.com). I'd love to give you all my social media connections, but I'm not really into all that and I don't have any, so I'm afraid you'll just have to write.  
 
 ## Most recent listens 🎵 🎧
 
