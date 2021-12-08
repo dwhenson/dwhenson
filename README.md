@@ -27,11 +27,21 @@ I have plenty of experience working with remote teams. I aim to transition into 
   </td>
   </table>
   
-## wakatime
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dwhenson/2de555d3-b724-43a0-a359-9e1ca1f9376d.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dwhenson/a195e926-3e77-4f83-8554-0d5ac7adf927.png" /></a>
+## 💪 Am I Working Hard Enough?
+<table width="100%" border="0"> 
+  <tr>
+  <td width="50%">
+      
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@dwhenson/2de555d3-b724-43a0-a359-9e1ca1f9376d.png" /></a>
 
-## 📫 Contact 
+  </td>
+  <td width="50%">
+
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@dwhenson/a195e926-3e77-4f83-8554-0d5ac7adf927.png" /></a>
+  </td>
+  </table>
+
+## Contact 📫 
 
 Email is the [best way to reach me](mailto:dave.henson@gmail.com). I'd love to give you all my social media connections, but I'm not really into all that and I don't have any, so I'm afraid you'll just have to write.  
 
