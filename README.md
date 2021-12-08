@@ -28,8 +28,8 @@ I have plenty of experience working with remote teams. I aim to transition into 
   </table>
   
 ## wakatime
-<figure><embed src="https://wakatime.com/share/@dwhenson/edcb51f7-d62a-4a9f-a4fb-dc0ba520192b.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@dwhenson/e99bb8e6-02e3-4d17-bddc-b7970b236613.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dwhenson/2de555d3-b724-43a0-a359-9e1ca1f9376d.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@dwhenson/a195e926-3e77-4f83-8554-0d5ac7adf927.png" /></a>
 
 ## 📫 Contact 
 
