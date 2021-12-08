@@ -27,7 +27,7 @@ I have plenty of experience working with remote teams. I aim to transition into 
   </td>
   </table>
   
-## 💪 Am I Working Hard Enough?
+## 🏋️‍♀️ Am I Working Hard Enough?
 <table width="100%" border="0"> 
   <tr>
   <td width="50%">
