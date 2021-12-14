@@ -8,10 +8,9 @@ I have plenty of experience working with remote teams. I aim to transition into 
   
 ## 🪴 I’m currently learning:
 
-- How to use Static Site Generators (Eleventy)
-- Strenghtening my knowledge of JavaScript's underlying concepts
-- Accessability and performance
-
+- Static Site Generators (Eleventy)
+- Service workers
+- Re-doing basic JS (again)
 
 ## Github Stats 💫
 <table width="100%" border="0"> 
