@@ -2,9 +2,6 @@
 ***I love building fast, easy-to-use and accessible websites.***
 
 I’m a frontend developer with a strong focus on accessible HTML, modern CSS and vanilla JavaScript. I also have experience with static site generators. At the moment I am increasing my knowledge of website performance and and how browsers work, while dipping my toes into UX and UI design.
-
-I have plenty of experience working with remote teams. I aim to transition into a frontend developer role over the next year or so. I’m looking for my next opportunity as a frontend web developer starting in 2022. Please do get in touch; I'd love to hear about what you are working on and if I could help.
-  
   
 ## 🪴 I’m currently learning:
 
