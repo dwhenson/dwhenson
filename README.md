@@ -5,9 +5,7 @@ I’m a frontend developer with a strong focus on accessible HTML, modern CSS an
   
 ## 🪴 I’m currently learning:
 
-- Static Site Generators (Eleventy)
-- Service workers
-- Re-doing basic JS (again)
+- Re-doing the fundamentals of JS (again)
 
 ## Github Stats 💫
 <table width="100%" border="0"> 
