@@ -23,7 +23,7 @@ I’m a frontend developer with a strong focus on accessible HTML, modern CSS an
   </td>
   </table>
   
-## 🏋️‍♀️ Am I Working Hard Enough?
+## 🏋 Am I Working Hard Enough?
 <table width="100%" border="0"> 
   <tr>
   <td width="50%">
@@ -39,7 +39,7 @@ I’m a frontend developer with a strong focus on accessible HTML, modern CSS an
 
 ## Contact 📫 
 
-Email is the [best way to reach me](mailto:dave.henson@gmail.com). I'd love to give you all my social media connections, but I'm not really into all that and I don't have any, so I'm afraid you'll just have to write.  
+Email is the [best way to reach me](mailto:dave.henson@gmail.com). I'd love to give you all my social media connections, but I'm not really into all that, so I'm afraid you'll just have to write.  
 
 ## Most recent listens 🎵 🎧
 
