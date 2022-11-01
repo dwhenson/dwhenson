@@ -5,7 +5,9 @@ I’m a frontend developer with a strong focus on accessible HTML, modern CSS an
   
 ## 🪴 I’m currently learning:
 
-- Re-doing the fundamentals of JS (again)
+- React (I don't really love it, yet)
+- SCSS (going through Kevin Powell's course - learning lots!)
+- Testing (apparently this will help me get a job!)
 
 ## Github Stats 💫
 <table width="100%" border="0"> 
