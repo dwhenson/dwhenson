@@ -1,7 +1,8 @@
 # Hey, I’m Dave. 👋
 ***I love building fast, easy-to-use and accessible websites.***
 
-I’m a frontend developer with a strong focus on accessible HTML, modern CSS and vanilla JavaScript. I also have experience with static site generators. At the moment I am increasing my knowledge of website performance and and how browsers work, while dipping my toes into UX and UI design.
+A frontend developer with a strong focus on accessible HTML, modern CSS, and vanilla JavaScript. As a mid-career changer, I seek an opportunity to apply the skills I've learnt independently in a real-world, professional setting. I am looking for a position where I can learn from others, further establish my solid technical foundations, and develop the habits that will help me grow as a competent developer.
+
   
 ## 🪴 I’m currently learning:
 
