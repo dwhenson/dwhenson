@@ -6,9 +6,9 @@ A frontend developer with a strong focus on accessible HTML, modern CSS, and van
   
 ## 🪴 I’m currently learning:
 
-- React (I don't really love it, yet)
-- SCSS (going through Kevin Powell's course - learning lots!)
-- Testing (I hoping it will save me a lot of pain in the future)
+- React (I don't really love it, yet...)
+- Advacned SCSS (hmmm, I'm not sure I'd actually use much of this!)
+- Testing (hoping it will save me a lot of pain in the future)
 
 ## Github Stats 💫
 <table width="100%" border="0"> 
