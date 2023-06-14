@@ -1,14 +1,14 @@
 # Hey, I’m Dave. 👋
 ***I love building fast, easy-to-use and accessible websites.***
 
-A frontend developer with a strong focus on accessible HTML, modern CSS, and vanilla JavaScript. As a mid-career changer, I seek an opportunity to apply the skills I've learnt independently in a real-world, professional setting. I am looking for a position where I can learn from others, further establish my solid technical foundations, and develop the habits that will help me grow as a competent developer.
+A frontend developer with a strong focus on accessible HTML, modern CSS, and vanilla JavaScript. 
 
   
 ## 🪴 I’m currently learning:
 
-- React (I don't really love it, yet...)
+- React (I don't really love it, yet... actually I'm starting too...)
 - Advacned SCSS (hmmm, I'm not sure I'd actually use much of this!)
-- Testing (hoping it will save me a lot of pain in the future)
+- More JS (I don't think this will ever come off the list)
 
 ## Github Stats 💫
 <table width="100%" border="0"> 
