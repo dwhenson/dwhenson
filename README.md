@@ -3,7 +3,6 @@
 
 A frontend developer with a strong focus on accessible HTML, modern CSS, and vanilla JavaScript. 
 
-  
 ## 🪴 I’m currently learning:
 
 - React (I don't really love it, yet... actually I'm starting too...)
@@ -38,11 +37,11 @@ A frontend developer with a strong focus on accessible HTML, modern CSS, and van
   </td>
   </table>
 
+## 🎧 Most recent listens
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tadpole-angel&count=5&width=500)
+
 ## Contact 📫 
 
 Email is the [best way to reach me](mailto:dave.henson@gmail.com). I don't have any social media stuff, so I'm afraid you'll just have to write.  
 
-## 🎧 Most recent listens
-
-
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tadpole-angel&count=5&width=500)
