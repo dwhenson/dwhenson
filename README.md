@@ -5,7 +5,7 @@ A frontend developer with a strong focus on accessible HTML, modern CSS, and van
 
 ## 🪴 I’m currently learning:
 
-- React (I don't really love it, yet... actually I'm starting too...)
+- Angular and Typescript
 - Advacned SCSS (hmmm, I'm not sure I'd actually use much of this!)
 - More JS (I don't think this will ever come off the list)
 
